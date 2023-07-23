@@ -1,5 +1,8 @@
 # Text-Summarization_EndToEnd
 
+This is my learning project, and the code belongs to this YouTube video: https://www.youtube.com/watch?v=p7V4Aa7qEpw.
+
+
 ## Workflows
 
 1. Update config.yaml
